@@ -5,5 +5,8 @@ class Test
         System.out.println("NewMaster Branch");
 
         System.out.println("NewMaster Branch new statement");
+
+        System.out.println("master changes");
+        
     }
 }
