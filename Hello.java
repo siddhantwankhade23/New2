@@ -1,4 +1,4 @@
-class Test
+class Hello
 {
     public static void main(String []args)
     {
@@ -9,5 +9,9 @@ class Test
 
 
         System.out.println("opening vi editor");
+
+        System.out.println("merging change master branch");
+        
+
     }
 }
