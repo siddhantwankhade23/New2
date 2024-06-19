@@ -6,7 +6,7 @@ class Hello
 
         System.out.println("NewMaster Branch new statement");
 
-        System.out.println("master changes");
+        System.out.println("merging change master branch");
         
     }
 }
